@@ -25,8 +25,8 @@ On the second day, we were asked to present our ideas.
 # 11/5/23
 We were only tasked with learning Fusion 360 on this day.
 
-* started to learn about autdesk fusion 360.
-* the resources I found the day before were quite complicated and so could not progress much. But then fellow student recommended Lans Christenson on       Youtube and learned the basics from him.
+* started to learn about Autodesk Fusion 360.
+* the resources I found the day before were quite complicated and so could not progress much. But then a fellow student recommended [Lars Christensen](https://youtube.com/playlist?list=PL40d7srwyc_Ow4aaOGXlP2idPGwD7ruKg) on       Youtube and I learned the basics from him.
 * designed the conduit and other basic objects with his tutorial.
 
 
@@ -47,7 +47,7 @@ A meeting with a former alumni was scheduled to teach us about the basics of the
 
 * we were given links and relevant resources to prototype our device.
 * we were given valuable tips on how to go about doing that.
-* this is the main resource.
+* [this is the main resource](https://www.instructables.com/Audio-Player-Using-Arduino-With-Micro-SD-Card/).
 
 
 # 22/5/23
